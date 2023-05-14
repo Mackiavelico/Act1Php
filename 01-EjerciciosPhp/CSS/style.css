@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    margin: 5%;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: aquamarine;
+    background-color: black;
+    padding: 5px;
+}
+
+#borde1{
+    border-radius: 8px;
+}
+
+nav{
+    text-align: center;
+}
+
+.p1{
+    color: blue;
+}
+
+li{
+    text-align: left;
+}
+
+.p2{
+    text-align: left;
+    color: blue;
+}
+#btn1{
+    width: 100px;
+}
+
+footer{
+    background-color: black;
+    color: aquamarine;
+    padding: 20px;
+}
+
